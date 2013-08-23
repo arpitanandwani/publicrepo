@@ -1,4 +1,5 @@
 # Another Git Upload
+# Changes made for bug fix!!
 topcat = Array.new
 wedreg = Array.new
 Given /^I am on the home page$/ do
