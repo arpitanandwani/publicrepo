@@ -1,11 +1,7 @@
 Feature: Verify Macy's Website's Basic Functionality
 
 
-<<<<<<< HEAD
-# NOTE: :team2
-=======
-# NOTE: :shubham_m
->>>>>>> d5c0e76e4983b514b6658e480aaae45b98d1a66c
+# NOTE: :shubham
 #  - Put the Step Definitions into one .rb file.
 #  - Do not use text values to find UI elements.  Use xpaths and ids.
 
