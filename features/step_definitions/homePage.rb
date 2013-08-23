@@ -1,5 +1,6 @@
 # Another Git Upload
 # Changes made for bug fix in master!!
+# changes made after bug fix by team2
 topcat = Array.new
 wedreg = Array.new
 Given /^I am on the home page$/ do
