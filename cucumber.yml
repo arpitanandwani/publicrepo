@@ -1,0 +1,1 @@
+default: TEST_ENV=http://www.preprod5macys.fds.com
