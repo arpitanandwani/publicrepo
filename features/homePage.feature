@@ -1,4 +1,4 @@
-Feature: Verify Macy's Website's Basic Functionality
+Feature: Verify Macy's Website's Basic Functionality modified
 
 
 <<<<<<< HEAD
