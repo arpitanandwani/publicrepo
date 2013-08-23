@@ -4,6 +4,8 @@
 
 # Changes made for bug fix in master!!
 
+# changes made by team 1 after bug fix
+
 topcat = Array.new
 wedreg = Array.new
 Given /^I am on the home page$/ do
